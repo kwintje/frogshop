@@ -27,10 +27,11 @@
         padding-bottom: 4%;
         padding-left:4%;
         padding-right: 7%;
-        
         text-decoration: none;
       }
-      
+      .hokjes{
+        padding-left: 10%;
+      }
       .sale{
         margin-top: 7%;
       }
